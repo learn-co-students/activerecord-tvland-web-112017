@@ -29,3 +29,4 @@ RSpec.configure do |config|
   #     --seed 1234
   config.order = 'default'
 end
+# ActiveRecord::Base.logger = Logger.new(STDOUT)
